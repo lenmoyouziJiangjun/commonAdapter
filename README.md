@@ -1,0 +1,2 @@
+# commonAdapter
+RecycleView BaseAdapter
